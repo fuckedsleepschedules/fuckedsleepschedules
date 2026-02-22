@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=35&center=true&vCenter=true&width=600&lines=$+bazzell+;Backend+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f6feb&height=100&section=header&text=bazzell&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
