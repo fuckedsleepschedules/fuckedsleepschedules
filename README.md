@@ -1,4 +1,12 @@
-<h1 align="center">bazzell</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=bazzell&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&center=true&vCenter=true&lines=Backend+Developer;API+Architect;FiveM+Systems;Automation+Focused" />
+</p>
+
+<h1 align="center">$ bazzell $</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
@@ -8,27 +16,19 @@
 
 ---
 
-<div align="center">
+## About Me
 
-### About
-
-Backend & API development  
-Discord bots and automation systems  
-FiveM scripting (Lua)  
-Ubuntu / Linux server environments  
-Database management  
-
-</div>
+- Backend & API Development
+- Discord Bots & Automation Systems
+- FiveM scripting (Lua)
+- Ubuntu / Linux server environments
+- Database management
 
 ---
 
-<div align="center">
+## Tech Stack
 
-### Tech Stack
-
-</div>
-
-#### Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
@@ -37,7 +37,7 @@ Database management
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3" />
 </p>
 
-#### Backend & Tools
+### Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
@@ -47,21 +47,15 @@ Database management
 
 ---
 
-<div align="center">
+## Gt views
 
-### Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=fuckedsleepschedules&label=Views&color=1f6feb&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuckedsleepschedules&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
+</p>
 
 ---
 
-<div align="center">
+## Contact
 
-### Contact
-
-Discord: @ph2p  
-Email: bazzell666@gmail.com  
-
-</div>
+- Discord: @ph2p
+- Email: bazzell666@gmail.com
