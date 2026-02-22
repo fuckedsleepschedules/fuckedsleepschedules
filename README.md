@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&center=true&vCenter=true&lines=Backend+Developer;API+Architect;FiveM+Systems;Automation+Focused" />
 </p>
 
-<h1 align="center">$ bazzell $</h1>
-<h3 align="center">Backend Developer</h3>
-
 <p align="center">
   Building scalable APIs, Discord bots and game systems<br>
   Focused on performance, automation and backend architecture
