@@ -48,5 +48,11 @@
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuckedsleepschedules&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
   Discord: @ph2p • Mail: bazzell666@gmail.com
 </p>
