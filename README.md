@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  Discord: @ph2p • Mail: bazzell666@gmail.com
+  Discord: @ph2p • Contact: bazzell666@gmail.com
 </p>
