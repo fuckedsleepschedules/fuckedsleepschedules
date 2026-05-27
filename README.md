@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0000&size=40&center=true&vCenter=true&width=600&lines=$+bazzell+$" />
 </p>
 
-<h3 align="center" style="color:#ff0000;">Backend & Automation Developer</h3>
-
-<p align="center">
-  APIs • Discord Systems • Web Automation • FiveM Backend
-</p>
+<h3 align="center" style="color:#ff0000;">back-end dev</h3>
 
 ---
 
