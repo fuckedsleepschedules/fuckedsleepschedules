@@ -6,8 +6,6 @@
 
 ---
 
-## Tech
-
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python" />
@@ -35,13 +33,6 @@
   <img src="https://img.shields.io/badge/HeidiSQL-1a0000?style=for-the-badge" />
 </p>
 
----
-
-<p align="center">
-  Building scalable Discord automation systems and secure FiveM backends.
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fuckedsleepschedules&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
