@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  Discord: @ph2p • Contact: bazzell666@gmail.com
+  Discord: @inrobable • Contact: bazzell666@gmail.com
 </p>
